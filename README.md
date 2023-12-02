@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vamanjain&theme=juicyfresh" alt="Vamanjain" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN STACK**
 
 
 - 👨‍💻 All of my projects are available at **https://aman-protfolio.netlify.app/**
