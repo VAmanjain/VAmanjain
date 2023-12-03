@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
 <h3 align="center">👋 Learning Front-End Dev 🌐 . 📚 Aspiring Front-End Developer on a journey to master HTML, CSS, and JavaScript. Eager to connect, learn, and grow in the web development world. 🌱 Coding and learning, one step at a time!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamanjain&label=Profile%20views&color=0e75b6&style=flat" alt="Vamanjain" /> </p>
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)" width="100%" />
+<img src="https://camo.githubusercontent.com/44e6cfbc0cca6818c2cb517c68c876e9ddcddd4943cbfe032af60c09318b190e/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313233353334362f73637265656e73686f74732f333235323338352f6a6f622e676966" width="100%" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vamanjain&theme=juicyfresh" alt="Vamanjain" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
