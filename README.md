@@ -19,9 +19,7 @@
 <a href="https://linkedin.com/in/aman-jain-416321256" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="aman-jain-416321256" height="30" width="40" /></a><a href="https://instagram.com/iamanjain17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="iamanjain17" height="30" width="40" /></a></p>
 
   </div>
-  <div>
-    <img src="https://camo.githubusercontent.com/44e6cfbc0cca6818c2cb517c68c876e9ddcddd4943cbfe032af60c09318b190e/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313233353334362f73637265656e73686f74732f333235323338352f6a6f622e676966" width="50%" style={{marign:"auto"}} />
-  </div>
+ 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
