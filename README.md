@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Aman Jain</h1>
+<h1 align="center">Hi 👋, I'm Aman Jain </h1>
 <h3 align="center">👋 Learning Front-End Dev 🌐 . 📚 Aspiring Front-End Developer on a journey to master HTML, CSS, and JavaScript. Eager to connect, learn, and grow in the web development world. 🌱 Coding and learning, one step at a time!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamanjain&label=Profile%20views&color=0e75b6&style=flat" alt="Vamanjain" /> </p>
 <div style={{display:"flex"}}  >
