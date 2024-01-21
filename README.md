@@ -15,6 +15,8 @@ Web Developer
 
 <a href="https://www.github.com/vamanjain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vamanjain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamanjain&label=Profile%20views&color=0e75b6&style=flat" alt="Vamanjain" /> </p>
+
 
 ### Skills
 
