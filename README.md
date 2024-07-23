@@ -11,7 +11,7 @@ Web Developer
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [MyPortfolio](http://aman-protfolio.netlify.app/)
 * ✉️  You can contact me at [vaman.jain17@gmail.com](mailto:vaman.jain17@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning Java Full Stack Development
 
 <a href="https://www.github.com/vamanjain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vamanjain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
