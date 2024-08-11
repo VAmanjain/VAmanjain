@@ -125,4 +125,4 @@ I'm always eager to learn and collaborate on exciting projects. If you're intere
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
