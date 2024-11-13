@@ -61,6 +61,7 @@ I'm always eager to learn and collaborate on exciting projects. If you're intere
 <br/>  
 
 
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -98,6 +99,9 @@ I'm always eager to learn and collaborate on exciting projects. If you're intere
 
 <br/>  
 
+[![An image of @vamanjain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vamanjain)](https://holopin.io/@vamanjain)
+
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
